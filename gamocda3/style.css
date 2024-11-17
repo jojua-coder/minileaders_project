@@ -1,0 +1,13 @@
+.about{
+    text-align: center;
+    border: solid red 2px;
+    border-radius: 50px;
+    background-color: crimson;
+}
+
+.header{
+    border: solid blue 2px;
+    border-radius: 100px;
+    background-color: blue;
+}
+
