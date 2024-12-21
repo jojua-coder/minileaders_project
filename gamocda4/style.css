@@ -1,0 +1,33 @@
+body{
+    background-color: darkgrey;
+}
+#p2{
+    
+     justify-content:center ;
+     display: flex;
+     text-align: center;
+     
+}
+h3 a{
+    text-decoration: none;
+}
+.home{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+.about{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+.product{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+.contact{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}

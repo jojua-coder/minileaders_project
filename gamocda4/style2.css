@@ -1,0 +1,10 @@
+body{
+    background-color: darkgray;
+    text-align: center;
+}
+h3{
+    text-decoration:underline;
+    background-color: black;
+    color:  coral ;
+    border-radius: 15px;
+}
